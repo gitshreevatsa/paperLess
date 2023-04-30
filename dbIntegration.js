@@ -69,4 +69,5 @@ const handle = (file) => {
   return fileurl;
 };
 
-module.exports = { handle };
+export default handle;
+
